@@ -1,22 +1,17 @@
-# Organizer Notifier
-  ![badge-image](https://img.shields.io/static/v1?label=license&message=BSD&color=green)
+# Readme Generator
+  
 ## Description
-An application meant for use between multiple departments to organize projects and notify participants of progress made.
+An application that utilizes Node.js to create readme files.
 ## Installation
-No installation required, there is an accessible link that users can access through any browser.
+By installing, node, and inquire.
 ## Usage
-Click boxes that indicate which aspect of a project are complete. Then click submit.
+Enter Node index.js in a terminal window and completing the prompts.
 ## Testing
-By checking the server to ensure that the site is still being hosted.
+By running node index.js and verifying that a readme was created.
 ## Contribute
-By emailing suggestion and question to the email in the Readme.
-## License
-    
-    This project is licensed under the BSD license.
-    
-    The link to the license is at https://choosealicense.com/licenses/bsd/.
-    
+By submitting questions, suggestions and comments at the email attached.
+
 ## Questions?
 Please contact me at the links below for any inquiries.
-Github: https://github.com/SMazariego
-Email: Sfm4937@gmail.com
+Github: https://github.com/Smazariego
+Email: Knightcappodcast@gmail.com
